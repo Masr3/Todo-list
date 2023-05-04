@@ -1,0 +1,65 @@
+nav{
+    background-color:#FF6B6B   ;
+    width: 250px;
+    height:640px;
+    font-family:monospace;
+    border: 2px solid darkred;
+}
+
+ul li{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color:#EFEFEF  ;
+}
+
+ul li p{
+    font-size: 15px;
+}
+
+ul li a{
+    text-decoration: none;
+    color:#EFEFEF  ;
+}
+
+ul li a:visited{
+    text-decoration: none;
+
+}
+
+.button {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  background: linear-gradient(135deg, #FF6B6B, #BC4242);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+}
+
+.button--add {
+  background: linear-gradient(to bottom, #f2f2f2, #c9c9c9);
+}
+
+.button--delete {
+  background: linear-gradient(135deg, #FFD56B, #BC8F42);
+}
+
+.button--edit {
+  background: linear-gradient(135deg, #6B96FF, #4259BC);
+}

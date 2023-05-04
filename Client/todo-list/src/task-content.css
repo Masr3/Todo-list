@@ -1,0 +1,16 @@
+h1{
+    color:#003876;
+    text-align:center
+}
+
+.content{
+    margin:20px;
+}
+
+.task-title{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color:#393E46;
+}
+
