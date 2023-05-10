@@ -25,4 +25,3 @@ Simple Todo-list app using Golang for the backend and React for the frontend
 Manuel Alejandro Santana Ramirez
 
 manuelsantanar03@gmail.com
-+1 829-257-8257
